@@ -1,5 +1,7 @@
 # scaffolder-sub-command
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/travi/scaffolder-sub-command.svg)](https://greenkeeper.io/)
+
 scaffolder [sub-command](https://github.com/tj/commander.js#command-specific-options) for [commander](https://github.com/tj/commander.js)
 
 <!-- consumer badges -->
