@@ -1,5 +1,6 @@
 repository:
   description: scaffolder sub-command for commander
+  homepage: https://npm.im/@travi/scaffolder-sub-command
   has_wiki: false
   has_projects: false
   has_downloads: false
@@ -23,3 +24,6 @@ labels:
     color: ffffff
   - name: greenkeeper
     color: 00c775
+collaborators:
+  - username: travi-bot
+    permission: push
