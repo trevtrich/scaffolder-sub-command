@@ -8,6 +8,7 @@ scaffolder [sub-command](https://github.com/tj/commander.js#command-specific-opt
 
 <!-- status badges -->
 [![Build Status][ci-badge]][ci-link]
+[![Codecov](https://img.shields.io/codecov/c/github/travi/scaffolder-sub-command.svg)](https://codecov.io/github/travi/scaffolder-sub-command)
 
 <!-- contribution badges -->
 [![Conventional Commits][commit-convention-badge]][commit-convention-link]
