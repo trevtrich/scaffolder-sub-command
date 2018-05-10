@@ -20,7 +20,7 @@ scaffolder [sub-command](https://github.com/tj/commander.js#command-specific-opt
 [npm-badge]: https://img.shields.io/npm/v/@travi/scaffolder-sub-command.svg
 [license-link]: LICENSE
 [license-badge]: https://img.shields.io/github/license/travi/scaffolder-sub-command.svg
-[ci-link]: https://travis-ci.org/travi/scaffolder-sub-command
+[ci-link]: https://travis-ci.com/travi/scaffolder-sub-command
 [ci-badge]: https://img.shields.io/travis/travi/scaffolder-sub-command.svg?branch=master
 [commit-convention-link]: https://conventionalcommits.org
 [commit-convention-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg
