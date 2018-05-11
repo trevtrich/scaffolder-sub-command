@@ -54,7 +54,7 @@
     "sinon": "5.0.7"
   },
   "dependencies": {
-    "@travi/javascript-scaffolder": "1.13.1",
+    "@travi/javascript-scaffolder": "2.0.0-beta",
     "@travi/project-scaffolder": "2.0.0"
   }
 }
