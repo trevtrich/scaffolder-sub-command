@@ -27,3 +27,7 @@ labels:
 collaborators:
   - username: travi-bot
     permission: push
+branches:
+  - name: master
+    protection:
+      enforce_admins: true
