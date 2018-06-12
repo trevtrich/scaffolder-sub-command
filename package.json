@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@travi/javascript-scaffolder": "3.3.2",
-    "@travi/project-scaffolder": "4.0.1",
+    "@travi/project-scaffolder": "4.0.2",
     "@travi/travis-scaffolder-javascript": "1.4.0"
   }
 }
