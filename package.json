@@ -59,7 +59,7 @@
     "sinon": "^6.0.0"
   },
   "dependencies": {
-    "@travi/javascript-scaffolder": "3.10.1",
+    "@travi/javascript-scaffolder": "3.11.0",
     "@travi/project-scaffolder": "4.4.4",
     "@travi/travis-scaffolder-javascript": "1.4.1"
   }
