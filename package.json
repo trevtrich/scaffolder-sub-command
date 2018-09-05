@@ -59,9 +59,9 @@
     "sinon": "^6.1.5"
   },
   "dependencies": {
-    "@travi/github-scaffolder": "1.0.0-beta",
+    "@travi/github-scaffolder": "1.0.0-beta.1",
     "@travi/javascript-scaffolder": "3.11.6",
-    "@travi/project-scaffolder": "^5.0.0-beta",
+    "@travi/project-scaffolder": "5.0.0-beta",
     "@travi/travis-scaffolder-javascript": "1.4.1"
   }
 }
