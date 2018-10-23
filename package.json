@@ -19,7 +19,7 @@
     "test:integration": "run-s 'test:integration:base -- --tags \"not @wip\"'",
     "test:integration:base": "cucumber-js test/integration --require-module babel-register --format-options '{\"snippetInterface\": \"async-await\"}'",
     "test:integration:debug": "DEBUG=test run-s test:integration",
-    "test:integration:wip": "run-s test:integration:base -- --tags @wip",
+    "test:integration:wip": "run-s 'test:integration:base -- --tags @wip'",
     "coverage:report": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "build": "run-s clean build:*",
     "build:js": "rollup -c",
