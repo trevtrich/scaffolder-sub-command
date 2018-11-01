@@ -60,7 +60,7 @@
     "@travi/github-scaffolder": "1.0.0",
     "@travi/gitlab-scaffolder": "1.0.0",
     "@travi/javascript-scaffolder": "3.14.3",
-    "@travi/project-scaffolder": "5.0.3",
+    "@travi/project-scaffolder": "5.0.4",
     "@travi/travis-scaffolder-javascript": "1.4.4"
   }
 }
