@@ -37,7 +37,7 @@
   "devDependencies": {
     "@travi/any": "1.8.3",
     "@travi/eslint-config-travi": "^1.6.18",
-    "babel-preset-travi": "1.4.0",
+    "babel-preset-travi": "1.4.2",
     "babel-register": "6.26.0",
     "bdd-stdin": "^0.2.0",
     "chai": "4.1.2",
