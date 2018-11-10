@@ -17,7 +17,7 @@
     "test:unit:base": "mocha --recursive test/unit",
     "test:unit": "nyc run-s test:unit:base",
     "test:integration": "run-s 'test:integration:base -- --tags \"not @wip\"'",
-    "test:integration:base": "cucumber-js test/integration --require-module babel-register --format-options '{\"snippetInterface\": \"async-await\"}'",
+    "test:integration:base": "cucumber-js test/integration --require-module @babel/register --format-options '{\"snippetInterface\": \"async-await\"}'",
     "test:integration:debug": "DEBUG=test run-s test:integration",
     "test:integration:wip": "run-s 'test:integration:base -- --tags @wip'",
     "coverage:report": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
@@ -35,10 +35,10 @@
     }
   },
   "devDependencies": {
+    "@babel/register": "^7.0.0",
     "@travi/any": "1.8.3",
+    "@travi/babel-preset": "^2.0.0-beta.2",
     "@travi/eslint-config-travi": "^1.6.18",
-    "babel-preset-travi": "1.4.2",
-    "babel-register": "6.26.0",
     "bdd-stdin": "^0.2.0",
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
