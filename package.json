@@ -62,7 +62,7 @@
     "@travi/gitlab-scaffolder": "1.0.0",
     "@travi/javascript-scaffolder": "4.0.0-beta",
     "@travi/netlify-scaffolder": "1.0.0",
-    "@travi/project-scaffolder": "5.0.5",
+    "@travi/project-scaffolder": "5.0.6",
     "@travi/travis-scaffolder-javascript": "1.4.5"
   }
 }
