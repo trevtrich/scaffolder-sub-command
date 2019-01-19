@@ -55,7 +55,7 @@
     "rimraf": "2.6.3",
     "rollup": "1.1.0",
     "rollup-plugin-auto-external": "^2.0.0",
-    "sinon": "^6.1.5"
+    "sinon": "^7.2.3"
   },
   "dependencies": {
     "@travi/github-scaffolder": "2.0.0",
