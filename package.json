@@ -58,7 +58,7 @@
     "sinon": "^7.2.3"
   },
   "dependencies": {
-    "@travi/github-scaffolder": "2.0.0",
+    "@travi/github-scaffolder": "3.0.0",
     "@travi/gitlab-scaffolder": "1.0.0",
     "@travi/javascript-scaffolder": "4.1.1",
     "@travi/netlify-scaffolder": "1.0.0",
