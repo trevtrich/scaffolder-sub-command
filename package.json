@@ -63,6 +63,6 @@
     "@travi/javascript-scaffolder": "4.2.0",
     "@travi/netlify-scaffolder": "1.0.0",
     "@travi/project-scaffolder": "5.2.0",
-    "@travi/travis-scaffolder-javascript": "1.7.0"
+    "@travi/travis-scaffolder-javascript": "1.7.1"
   }
 }
