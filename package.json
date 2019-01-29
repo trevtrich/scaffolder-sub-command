@@ -60,7 +60,7 @@
   "dependencies": {
     "@travi/github-scaffolder": "3.0.2",
     "@travi/gitlab-scaffolder": "1.0.0",
-    "@travi/javascript-scaffolder": "4.3.0",
+    "@travi/javascript-scaffolder": "4.3.0-alpha.1",
     "@travi/netlify-scaffolder": "1.0.0",
     "@travi/project-scaffolder": "5.2.1",
     "@travi/travis-scaffolder-javascript": "1.7.1"
