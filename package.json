@@ -61,6 +61,7 @@
     "sinon": "^7.2.3"
   },
   "dependencies": {
+    "@travi/circle-scaffolder-javascript": "1.0.0-beta.1",
     "@travi/github-scaffolder": "3.0.3-alpha.6",
     "@travi/gitlab-scaffolder": "1.0.1",
     "@travi/javascript-scaffolder": "5.0.5",
