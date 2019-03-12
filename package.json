@@ -71,6 +71,7 @@
     "@travi/netlify-scaffolder": "1.1.0",
     "@travi/node-app-engine-standard-scaffolder": "1.0.0-alpha.1",
     "@travi/project-scaffolder": "6.1.1",
+    "@travi/shell-scaffolder": "1.0.0-alpha.2",
     "@travi/travis-scaffolder-javascript": "1.11.0"
   }
 }
