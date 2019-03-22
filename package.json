@@ -67,7 +67,7 @@
     "@travi/circle-scaffolder-javascript": "1.2.1",
     "@travi/github-scaffolder": "3.0.3-alpha.6",
     "@travi/gitlab-scaffolder": "1.0.1",
-    "@travi/javascript-scaffolder": "6.0.0",
+    "@travi/javascript-scaffolder": "6.0.1",
     "@travi/netlify-scaffolder": "1.1.0",
     "@travi/node-app-engine-standard-scaffolder": "1.0.0-alpha.1",
     "@travi/project-scaffolder": "6.1.2",
