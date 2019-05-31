@@ -70,7 +70,7 @@
     "@travi/javascript-scaffolder": "6.21.4",
     "@travi/netlify-scaffolder": "1.2.0",
     "@travi/node-app-engine-standard-scaffolder": "1.0.0-alpha.1",
-    "@travi/project-scaffolder": "6.4.3",
+    "@travi/project-scaffolder": "6.4.4",
     "@travi/shell-scaffolder": "1.1.0",
     "@travi/spectacle-scaffolder": "1.1.0",
     "@travi/travis-scaffolder-javascript": "1.12.0",
