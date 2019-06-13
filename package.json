@@ -12,7 +12,7 @@
   "scripts": {
     "clean": "rimraf lib/",
     "lint:js": "eslint . --cache",
-    "lint:travis": "travis lint --no-interactive",
+    "lint:travis": "travis-lint .travis.yml",
     "test": "npm-run-all --print-label --parallel lint:* --parallel test:*",
     "test:unit:base": "mocha --recursive test/unit",
     "test:unit": "nyc run-s test:unit:base",
@@ -61,7 +61,8 @@
     "rimraf": "2.6.3",
     "rollup": "1.15.1",
     "rollup-plugin-auto-external": "^2.0.0",
-    "sinon": "^7.2.3"
+    "sinon": "^7.2.3",
+    "travis-lint": "^1.0.0"
   },
   "dependencies": {
     "@travi/circle-scaffolder-javascript": "1.2.1",
