@@ -76,7 +76,7 @@
     "@travi/project-scaffolder": "7.0.13",
     "@travi/shell-scaffolder": "1.1.1",
     "@travi/spectacle-scaffolder": "2.0.0",
-    "@travi/travis-scaffolder-javascript": "1.12.0",
+    "@travi/travis-scaffolder-javascript": "1.13.0",
     "@travi/travis-scaffolder-shell": "1.0.0-alpha.4"
   }
 }
