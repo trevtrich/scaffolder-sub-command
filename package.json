@@ -55,7 +55,7 @@
     "debug": "^4.1.1",
     "http-status-codes": "^1.4.0",
     "husky": "^3.0.9",
-    "lockfile-lint": "^2.2.0",
+    "lockfile-lint": "^3.0.0",
     "mocha": "6.2.2",
     "mock-fs": "^4.10.3",
     "mz": "^2.7.0",
