@@ -79,7 +79,7 @@
     "@travi/node-app-engine-standard-scaffolder": "1.2.1",
     "@travi/project-scaffolder": "7.2.0",
     "@travi/shell-scaffolder": "1.1.1",
-    "@travi/spectacle-scaffolder": "2.4.1",
+    "@travi/spectacle-scaffolder": "2.5.0",
     "@travi/travis-scaffolder-javascript": "2.0.0",
     "@travi/travis-scaffolder-shell": "1.0.0-alpha.4"
   }
