@@ -46,6 +46,7 @@
     "@travi/eslint-config": "1.0.31",
     "@travi/eslint-config-cucumber": "1.0.4",
     "@travi/eslint-config-mocha": "1.0.6",
+    "@travi/language-scaffolder-prompts": "^1.1.1",
     "chai": "^4.2.0",
     "chai-as-promised": "7.1.1",
     "codecov": "3.6.1",
