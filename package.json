@@ -77,7 +77,7 @@
     "@form8ion/renovate-scaffolder": "1.1.0",
     "@form8ion/ruby-scaffolder": "1.0.3",
     "@travi/circle-scaffolder-javascript": "1.2.1",
-    "@travi/github-scaffolder": "5.0.2",
+    "@travi/github-scaffolder": "5.0.3",
     "@travi/gitlab-scaffolder": "1.0.3",
     "@travi/javascript-scaffolder": "10.20.0",
     "@travi/netlify-scaffolder": "1.4.0",
