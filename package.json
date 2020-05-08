@@ -69,7 +69,7 @@
     "rollup": "2.8.2",
     "rollup-plugin-auto-external": "2.0.0",
     "sinon": "9.0.2",
-    "testdouble": "3.12.5",
+    "testdouble": "3.13.1",
     "travis-lint": "1.0.0"
   },
   "dependencies": {
