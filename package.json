@@ -49,6 +49,7 @@
     "@travi/eslint-config-cucumber": "1.0.5",
     "@travi/eslint-config-mocha": "1.0.8",
     "@travi/language-scaffolder-prompts": "1.1.1",
+    "@travi/travis-lint": "1.0.1",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
     "codecov": "3.7.0",
@@ -69,8 +70,7 @@
     "rollup": "2.10.3",
     "rollup-plugin-auto-external": "2.0.0",
     "sinon": "9.0.2",
-    "testdouble": "3.15.0",
-    "travis-lint": "1.0.0"
+    "testdouble": "3.15.0"
   },
   "dependencies": {
     "@form8ion/dependabot-scaffolder": "1.2.0",
